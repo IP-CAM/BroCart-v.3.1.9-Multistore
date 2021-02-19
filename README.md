@@ -1,51 +1,52 @@
-CMS BroCart - SEO скрипт интернет-магазина
+CMS BroCart - SEO script for online store
 =================================
-Легкая установка и простое использование
+Easy installation and simple use
 
-## Состояние проекта
-[![PHP >= 7.3+](https://www.brocart.net/php1.svg?style=flat)](https://php.net/)
+## Project status
+[! [PHP> = 7.3+] (https://www.brocart.net/php1.svg?style=flat)] (https://php.net/)
 
-[![Последняя стабильная версия](https://www.brocart.net/ver1.svg?label=version&style=flat)](https://www.brocart.net/33-zavantazhyty/58-zavantazhyty-zbirku-brocart)
+[! [Latest stable release] (https://www.brocart.net/ver1.svg?label=version&style=flat)] (https://www.brocart.net/33-zavantazhyty/58-zavantazhyty-zbirku- brocart)
 
-[![Статус дистрибутива](https://www.brocart.net/rel1.svg?style=flat)](https://github.com/BroCart/3.1.9)
+[! [Distribution Status] (https://www.brocart.net/rel1.svg?style=flat)] (https://github.com/BroCart/3.1.9)
 
-[![Всего скачиваний](https://www.brocart.net/downloads1.svg?style=flat)](https://www.brocart.net)
+[! [Total Downloads] (https://www.brocart.net/downloads1.svg?style=flat)] (https://www.brocart.net)
 
-[![Лицензия](https://www.brocart.net/lic.svg?style=flat)](https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D1%8F_MIT)
+[! [License] (https://www.brocart.net/lic.svg?style=flat)] (https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D1%86 % D0% B5% D0% BD% D0% B7% D0% B8% D1% 8F_MIT)
 
-## Установка
+## Installation
 
-Следуйте шагам в установщике, выбрав язык установки и проверив соответствие требованиям
+Follow the steps in the installer by choosing the installation language and checking for compliance
 
-## Использование
+## Usage
 
-На нашем [форуме][2], Вы можете найти ответы на большинство вопросов, связанных с конфигурированием CMS 
-Так же множество [видеоинструкций][3] помогут понять основные приемущества [BroCart][6]
+On our [forum] [2], you can find answers to most of the questions related to configuring CMS
+Also many [video tutorials] [3] will help you understand the main advantages of [BroCart] [6]
 
-## Лицензия
+## License
 
-Проект разработан энтузиастами в области e-commerce использовав доминирующий язык программирования [PHP][5] по лицензии [MIT][4]
+The project was developed by e-commerce enthusiasts using the dominant programming language [PHP] [5] under the [MIT] license [4]
 
-## Авторство
+## Authorship
 
-ALarik - SEO, кодинг, совместимость с TPL и TWIG
+ALarik - SEO, Coding, TPL and TWIG Compatibility
 
-SlaSoft - кодинг, оптимизация, кеширование, SEO-controller
+SlaSoft - coding, optimization, caching, SEO-controller
 
-OCappLab - безопасность, оптимизация, расширения
+OCappLab - security, optimization, extensions
 
-Einshtein - сопровождение, поддержка, консультирование
+Einshtein - accompaniment, support, consulting
 
-Yura_co - тестирование, локализация, шаблонизатор
+Yura_co - testing, localization, templating
 
-Kamilla - маркетинг и PR
+Kamilla - marketing and PR
 
-Sergiosinicin - консультирование и поддержка
+Sergiosinicin - consulting and support
 
-Baco - кодинг, тестирование
+Baco - coding, testing
 
 [2]: https://forum.brocart.net
 [3]: https://www.youtube.com/user/opencartua
 [4]: https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D1%8F_MIT
 [5]: https://php.net
-[6]: https://www.brocart.net
+[6]: https://www.brocart.net 
+
